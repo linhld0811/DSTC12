@@ -1,5 +1,6 @@
 # download Llama-Guard-3-1B
-```huggingface-cli download meta-llama/Llama-Guard-3-1B --include "original/*" --local-dir Llama-Guard-3-1B  --token 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
+```
+huggingface-cli download meta-llama/Llama-Guard-3-1B --include "original/*" --local-dir Llama-Guard-3-1B  --token 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
 ```
 # download dataset
 ```
