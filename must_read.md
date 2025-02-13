@@ -1,0 +1,9 @@
+# paper
+https://arxiv.org/pdf/2502.01225 <br>
+https://aclanthology.org/2024.findings-naacl.108.pdf <br>
+https://github.com/git-disl/awesome_LLM-harmful-fine-tuning-papers <br>
+https://arxiv.org/pdf/2410.09024  <br>
+# opensource
+https://github.com/Hanpx20/SafeSwitch <br>
+https://github.com/yihedeng9/DuoGuard <br>
+https://github.com/meta-llama/llama-cookbook/tree/main/src/llama_recipes/data/llama_guard <br>
