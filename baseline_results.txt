@@ -1,0 +1,10 @@
+dstc12/bot_adversarial_dialogue/ar AUC: 0.6875420706969636
+dstc12/bot_adversarial_dialogue/de AUC: 0.7244117237910777
+dstc12/bot_adversarial_dialogue/en AUC: 0.7569425942245813
+dstc12/bot_adversarial_dialogue/es AUC: 0.6957007591120484
+dstc12/bot_adversarial_dialogue/fr AUC: 0.7116298313047191
+dstc12/bot_adversarial_dialogue/ja AUC: 0.7041420318941202
+dstc12/bot_adversarial_dialogue/pt AUC: 0.7153184798608323
+dstc12/bot_adversarial_dialogue/zh AUC: 0.7147131442175106
+
+AVG: 0.7138
