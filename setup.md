@@ -5,6 +5,7 @@ pip install -U "huggingface_hub[cli]"
 # Download Llama-Guard-3-1B
 ```
 huggingface-cli download meta-llama/Llama-Guard-3-1B --include "original/*" --local-dir Llama-Guard-3-1B  --token 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
+huggingface-cli download meta-llama/Llama-Guard-3-8B --include "original/*" --local-dir Llama-Guard-3-8B  --token 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
 ```
 # Download dataset
 ```
