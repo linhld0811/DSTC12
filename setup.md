@@ -1,3 +1,7 @@
+# Setup
+```
+pip install -U "huggingface_hub[cli]"
+```
 # Download Llama-Guard-3-1B
 ```
 huggingface-cli download meta-llama/Llama-Guard-3-1B --include "original/*" --local-dir Llama-Guard-3-1B  --token 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
