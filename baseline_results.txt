@@ -1,15 +1,4 @@
 1. Llama-Guard-3-1B (fine-tuned Llama-3.2-1B)
-dstc12/bot_adversarial_dialogue/ar AUC: 0.6875420706969636
-dstc12/bot_adversarial_dialogue/de AUC: 0.7244117237910777
-dstc12/bot_adversarial_dialogue/en AUC: 0.7569425942245813
-dstc12/bot_adversarial_dialogue/es AUC: 0.6957007591120484
-dstc12/bot_adversarial_dialogue/fr AUC: 0.7116298313047191
-dstc12/bot_adversarial_dialogue/ja AUC: 0.7041420318941202
-dstc12/bot_adversarial_dialogue/pt AUC: 0.7153184798608323
-dstc12/bot_adversarial_dialogue/zh AUC: 0.7147131442175106
-AVG: 0.7138
-
-Rerun:
 dstc12/bot_adversarial_dialogue/ar AUC: 0.6884388208682785
 dstc12/bot_adversarial_dialogue/de AUC: 0.7240349029361454
 dstc12/bot_adversarial_dialogue/en AUC: 0.7571100747033386
@@ -28,6 +17,17 @@ dstc12/dialogue_safety/fr AUC: 0.58973677691069
 dstc12/dialogue_safety/ja AUC: 0.5900753086419753
 dstc12/dialogue_safety/pt AUC: 0.5937346711259754
 dstc12/dialogue_safety/zh AUC: 0.6165086419753086
+AVG: 0.596434
+
+dstc12/ProsocialDialog/ar AUC: 0.6629012116761583
+dstc12/ProsocialDialog/de AUC: 0.6949000996937007
+dstc12/ProsocialDialog/en AUC: 0.7261154284043465
+dstc12/ProsocialDialog/es AUC: 0.691474291419331
+dstc12/ProsocialDialog/fr AUC: 0.69164206392959
+dstc12/ProsocialDialog/ja AUC: 0.6667314060514284
+dstc12/ProsocialDialog/pt AUC: 0.6978267661206652
+dstc12/ProsocialDialog/zh AUC: 0.6989507217290434
+AVG: 0.6913
 
 2. Llama-Guard-3-8B (fine-tuned Llama-3.1-8B)
 dstc12/bot_adversarial_dialogue/ar AUC: 0.7956065305850177
@@ -38,6 +38,7 @@ dstc12/bot_adversarial_dialogue/fr AUC: 0.8010941484217005
 dstc12/bot_adversarial_dialogue/ja AUC: 0.7734681992960631
 dstc12/bot_adversarial_dialogue/pt AUC: 0.8011731120924216
 dstc12/bot_adversarial_dialogue/zh AUC: 0.7897085773885988
+AVG: 0.7957
 
 dstc12/dialogue_safety/ar AUC: 0.7551450225733913
 dstc12/dialogue_safety/de AUC: 0.7721850613154961
@@ -47,3 +48,5 @@ dstc12/dialogue_safety/fr AUC: 0.7878657252570296
 dstc12/dialogue_safety/ja AUC: 0.7654895061728396
 dstc12/dialogue_safety/pt AUC: 0.7873014988232381
 dstc12/dialogue_safety/zh AUC: 0.7726981481481481
+AVG: 0.779941
+
