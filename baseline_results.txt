@@ -7,7 +7,6 @@ dstc12/bot_adversarial_dialogue/fr AUC: 0.7116298313047191
 dstc12/bot_adversarial_dialogue/ja AUC: 0.7041420318941202
 dstc12/bot_adversarial_dialogue/pt AUC: 0.7153184798608323
 dstc12/bot_adversarial_dialogue/zh AUC: 0.7147131442175106
-
 AVG: 0.7138
 
 Rerun:
@@ -19,6 +18,7 @@ dstc12/bot_adversarial_dialogue/fr AUC: 0.7113362161007901
 dstc12/bot_adversarial_dialogue/ja AUC: 0.7040365619199151
 dstc12/bot_adversarial_dialogue/pt AUC: 0.7145423524688879
 dstc12/bot_adversarial_dialogue/zh AUC: 0.7142590393749042
+AVG: 0.7137
 
 2. Llama-Guard-3-8B (fine-tuned Llama-3.1-8B)
 dstc12/bot_adversarial_dialogue/ar AUC: 0.7956065305850177
@@ -29,3 +29,12 @@ dstc12/bot_adversarial_dialogue/fr AUC: 0.8010941484217005
 dstc12/bot_adversarial_dialogue/ja AUC: 0.7734681992960631
 dstc12/bot_adversarial_dialogue/pt AUC: 0.8011731120924216
 dstc12/bot_adversarial_dialogue/zh AUC: 0.7897085773885988
+
+dstc12/dialogue_safety/ar AUC: 0.7551450225733913
+dstc12/dialogue_safety/de AUC: 0.7721850613154961
+dstc12/dialogue_safety/en AUC: 0.8095055555555555
+dstc12/dialogue_safety/es AUC: 0.7893360584664932
+dstc12/dialogue_safety/fr AUC: 0.7878657252570296
+dstc12/dialogue_safety/ja AUC: 0.7654895061728396
+dstc12/dialogue_safety/pt AUC: 0.7873014988232381
+dstc12/dialogue_safety/zh AUC: 0.7726981481481481
