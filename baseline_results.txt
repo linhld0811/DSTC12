@@ -50,3 +50,12 @@ dstc12/dialogue_safety/pt AUC: 0.7873014988232381
 dstc12/dialogue_safety/zh AUC: 0.7726981481481481
 AVG: 0.779941
 
+dstc12/ProsocialDialog/ar AUC: 0.7505317301149904
+dstc12/ProsocialDialog/de AUC: 0.7818626420260382
+dstc12/ProsocialDialog/en AUC: 0.8080203424899294
+dstc12/ProsocialDialog/es AUC: 0.7804729577178049
+dstc12/ProsocialDialog/fr AUC: 0.7825509675311094
+dstc12/ProsocialDialog/ja AUC: 0.7627917375299094
+dstc12/ProsocialDialog/pt AUC: 0.7828428962051701
+dstc12/ProsocialDialog/zh AUC: 0.7843981947737061
+AVG: 0.779184
