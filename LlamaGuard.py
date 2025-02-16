@@ -10,7 +10,7 @@ from datasets import load_dataset
 
 from sklearn.metrics import roc_auc_score
 
-
+baseline_model = "Llama-Guard-3-1B" # "Llama-Guard-3-8B"
 def main(args):
     if args.input_file is None:
         raise ValueError("input file is required")
@@ -27,7 +27,7 @@ def main(args):
     preds = []
 
     llm = LLM(
-        model="Llama-Guard-3-1B",
+        model=baseline_model,
         tensor_parallel_size=args.tensor_parallel_size,
         pipeline_parallel_size=args.pipeline_parallel_size,
         max_model_len=2048 * 2,
@@ -46,7 +46,7 @@ def main(args):
         for i, message in enumerate(chat):
             role = "user" if i % 2 == 0 else "assistant"
             formatted_chat.append(
-                {"role": role, "content": [{"type": "text", "text": message}]}
+                {"role": role, "content": [{"type": "text", "text": message}] if baseline_model=="Llama-Guard-3-1B" else message}
             )
 
         prompts_to_process.append(
