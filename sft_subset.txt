@@ -20,6 +20,17 @@ AUC ja: 0.77625184
 AUC pt: 0.80664608
 AUC zh: 0.8022770399999999
 
+040325-dstc12-qwen2.5-7b-bot-dial-merge
+--------ProsocialDialog--------0.803371
+AUC ar: 0.78244056
+AUC de: 0.8032223199999999
+AUC en: 0.82958984
+AUC es: 0.8085164
+AUC fr: 0.80551056
+AUC ja: 0.77710008
+AUC pt: 0.81069776
+AUC zh: 0.8098884
+
 040325-dstc12-llama3.1-8b-bot-dial-cot
 --------ProsocialDialog--------0.778191
 AUC ar: 0.75359384
@@ -41,3 +52,6 @@ AUC fr: 0.81171608
 AUC ja: 0.75544864
 AUC pt: 0.8024918400000001
 AUC zh: 0.7868860800000002
+
+
+
